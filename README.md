@@ -4,13 +4,13 @@ September, 28 1983 &dash;
 
 I am a test engineer and life long learner in the World of programming.
 
-# Current Progress
+## Current Progress
 | Subject | Status |
 | ------- | ------ |
 | Selenium th | In progress
 | Java ca | In progress
 
-# Wishlist
+## Wishlist
 Excel in Programming
     - Data structures and algorithms.
 Excel in Math.
