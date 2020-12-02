@@ -5,9 +5,9 @@ September, 28 1983 &dash;
 I am a test engineer and life long learner in the World of programming.
 
 # Current Progress
-|||
+| Subject | Status |
 | ------- | ------ |
-| Selenium| In progress
+| Selenium th | In progress
 | Java ca | In progress
 
 # Wishlist
