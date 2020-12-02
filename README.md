@@ -11,12 +11,15 @@ I am a test engineer and life long learner in the World of programming.
 | Java ca | In progress
 
 ## Wishlist
-- Excel in Programming
-    - Data structures and algorithms.
-- Excel in Math.
+Excel in Programming
+
+Data structures and algorithms.
+
+Excel in Math.
+
 Excel in Problem solving.
 
-- Build my own App without relying on others.
+Build my own App without relying on others.
 
 ## Notes
 Contained are notes on various subject.
