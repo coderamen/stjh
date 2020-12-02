@@ -8,9 +8,9 @@ I am a test engineer and life long learner in the World of programming.
 
 ---
 
-| Subject | Status |
 | ------- | ------ |
-
+| Selenium th | In progress
+| Java ca | In progress
 
 # Wishlist
 Excel in Programming
